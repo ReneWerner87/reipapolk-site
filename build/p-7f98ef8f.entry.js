@@ -1,0 +1,1 @@
+import{r as e,h as o}from"./p-4e89456c.js";const r=class{constructor(o){e(this,o)}componentDidLoad(){document.title="Home"}render(){return o("main",{class:"home-page"},o("h1",null,"Homepage"))}};export{r as home_page}
