@@ -1,1 +1,0 @@
-import{r as o}from"./p-b9fed856.js";const n=class{constructor(n){o(this,n)}componentDidLoad(){document.title="Stencil Conduit"}render(){return"not-found"}};export{n as not_found_page}
